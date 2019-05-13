@@ -1,0 +1,15 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: demo-rabbitmq-producer
+  rabbitmq:
+    host: 192.168.1.182
+    port: 5672
+    username: guest
+    password: guest
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://xmccjyqs.com:7001/eureka/

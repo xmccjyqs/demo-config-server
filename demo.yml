@@ -8,8 +8,3 @@ spring:
     port: 5672
     username: guest
     password: guest
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://xmccjyqs.com:7001/eureka/

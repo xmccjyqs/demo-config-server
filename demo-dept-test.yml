@@ -3,4 +3,5 @@ spring:
     name: demo-dept
 
 bus: 
-  aaa
+  test:
+    aaa

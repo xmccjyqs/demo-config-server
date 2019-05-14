@@ -1,5 +1,7 @@
 server:
   port: 8082
+bus:
+  test: aaa
 spring:
   application:
     name: demo-rabbitmq-producer

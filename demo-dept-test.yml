@@ -4,4 +4,4 @@ spring:
 
 bus: 
   test:
-    aaa
+    aaabbbb

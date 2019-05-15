@@ -1,0 +1,14 @@
+server:
+  port: 7000
+zuul:
+  routes:
+    demo-dept: /aaa/**
+#  ignored-patterns:
+#    - /**/demo-dept/zuulTest
+  sensitive-headers:
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

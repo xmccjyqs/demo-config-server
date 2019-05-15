@@ -4,3 +4,9 @@ server:
 spring:
   application:
     name: microservice-dept
+    
+ 
+
+bus:
+  test:
+   hello bus

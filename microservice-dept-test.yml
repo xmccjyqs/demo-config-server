@@ -9,4 +9,4 @@ spring:
 
 bus:
   test:
-   hello bus
+   hello bus !!!!!

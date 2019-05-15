@@ -7,6 +7,14 @@ zuul:
 #    - /**/demo-dept/zuulTest
   sensitive-headers:
 
+
+spring:
+  rabbitmq:
+    host: 192.168.1.182
+    port: 5672
+    username: guest
+    password: guest  
+
 management:
   endpoints:
     web:

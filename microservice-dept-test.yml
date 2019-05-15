@@ -4,8 +4,3 @@ server:
 spring:
   application:
     name: microservice-dept
-
-eureka:
-  client:
-    service-url:
-      defaultZone: http://xmccjyqs.com:7001/eureka/

@@ -1,6 +1,6 @@
 zuul:
   routes:
-    demo-dept: /aaa/**
+    demo-dept: /bbb/**
 #  ignored-patterns:
 #    - /**/demo-dept/zuulTest
   sensitive-headers:

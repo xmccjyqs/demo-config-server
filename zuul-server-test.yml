@@ -1,8 +1,6 @@
 zuul:
   routes:
-    demo-dept: /ccc/**
-#  ignored-patterns:
-#    - /**/demo-dept/zuulTest
+    microservice-dept: /ccc/**
   sensitive-headers:
 
 ribbon:
